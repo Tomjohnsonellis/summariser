@@ -8,7 +8,6 @@ for the tutorial and accompanying video: https://www.youtube.com/watch?v=Jctmncz
 """
 
 
-from re import split
 from transformers import pipeline # Huggingface
 from bs4 import BeautifulSoup as bs
 import requests

@@ -2,3 +2,5 @@ streamlit
 transformers
 beautifulsoup4
 requests
+torch
+torchvision
